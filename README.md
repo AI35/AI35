@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/ali-othman3/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/Ali_B_OTHMan" target="_blank">
+  <a href="https://x.com/Ali_B_OTHMAN" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="40" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/users/370931549379624961" target="_blank">
